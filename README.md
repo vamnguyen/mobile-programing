@@ -15,5 +15,5 @@ npx create-expo-app -e with-router
 
 ## ⚙️ Project page
 
-[Expo Router: Docs](https://expo.dev/@vamnguyen/react-native-jobs?serviceType=classic&distribution=expo-go)
-Open the above link and then install Expo Go app to scan the QR code.
+[React-Native-Jobs](https://expo.dev/@vamnguyen/react-native-jobs?serviceType=classic&distribution=expo-go)
+Open this link and then install Expo Go app to scan the QR code.
